@@ -1,1 +1,2 @@
 db name is dbstudcrud
+also make file .env
